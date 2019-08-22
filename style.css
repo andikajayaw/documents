@@ -26,6 +26,7 @@ button {
     background: #6cc3d8;
     border-radius: 8px;
     border: none;
+    text-transform: capitalize;
 }
 
 button:hover {
